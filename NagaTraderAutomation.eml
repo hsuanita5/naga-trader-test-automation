@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component inheritJdk="true">
+	<output-test url="file://$MODULE_DIR$/../out/test/NagaTraderAutomation"/>
+	<exclude-output/>
+	<contentEntry url="file://$MODULE_DIR$"/>
+	<lib name="org.eclipse.m2e.MAVEN2_CLASSPATH_CONTAINER" scope="TEST"/>
+</component>

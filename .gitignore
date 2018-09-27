@@ -1,0 +1,31 @@
+/target/
+/bin/
+/test-output/
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+# Package Files #
+*.jar
+*.war
+
+# Eclipse/mvn
+bin/
+target/
+.settings
+.classpath
+.metadata
+.cache
+
+.vscode
+*.log
+*.iml
+.idea
+.DS_Store
+
+# IntelliJ output folder
+out/
+
+
